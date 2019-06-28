@@ -40,7 +40,6 @@ function IconComponent({styleOf,name}) {
   return (
     <Icon
       name={name}
-      color={LIGHT_TEXT_COLOR}
       size={18}
       style={styles[styleOf]}
     />
