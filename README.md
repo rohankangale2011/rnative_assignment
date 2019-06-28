@@ -20,3 +20,10 @@ In order to run the application on android platform, either on physical device o
 ```
 react-native run-android
 ```
+
+## Build
+Its important to sign the application digitally in order to publish it over google play store. One can follow the below instruction link to do the same:
+```
+https://facebook.github.io/react-native/docs/0.59/signed-apk-android
+```
+
